@@ -59,9 +59,7 @@ Math and reading scores by grade<br>
 
 ![Org Reading](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Original%20Analysis%20images/Reading_Scores.png)
 
-![Updated Math](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20average%20math%20score%20for%20each%20grade%20level%20from%20each%20school%20.png)
-
-![Updated Reading](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20average%20reading%20score%20for%20each%20grade%20level%20from%20each%20school%20.png)
+![Updated Math](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20average%20math%20score%20for%20each%20grade%20level%20from%20each%20school%20.png) ![Updated Reading (https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20average%20reading%20score%20for%20each%20grade%20level%20from%20each%20school%20.png)
 
 Scores by school spending<br>
 ![Org]()
