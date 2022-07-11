@@ -170,5 +170,4 @@ Such as the cost per student ratio and new school construstion.
 
 
 ___ 
-***TBD***  
- : Although the question still remains as to why Thomas HS's 9th grade scores were falsified. One could speculate it was just an attempt to claim the higher "Overall Passing" average and 'beat Cabrera HS to claim the number seat in the district. For better marketing maybe or just for kicks???
+***TBD***  : Although the question still remains as to why Thomas HS's 9th grade scores were falsified. One could speculate it was just an attempt to claim the higher "Overall Passing" average and 'beat Cabrera HS to claim the number seat in the district. For better marketing maybe or just for kicks???
