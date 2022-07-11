@@ -24,14 +24,17 @@
 
 <br>
 
- #### ***_   * Establishing this sort of enviroment allows for a discreet way of accessing and sharing senitive data.***
+ #### ****Establishing this sort of enviroment allows for a discreet way of accessing and sharing senitive data.***
 
 
 <br>
 
 # <center>Results 
 
- Information came to light that suggested that the test results of both math and reading, for the 9th grade class of Thomas High School had been altered. Therefore sections of the inital analysis needed to be revised and the altered data to be rendered NaN. While maintaining the rest of the students information. To perserve as much as the data possible. 
+ ### **Section 1**<br> 
+ 
+ Information came to light that suggested that the test results of both math and reading, for the 9th grade class of Thomas High School had been altered. Therefore sections of the inital analysis needed to be revised and the altered data to be rendered NaN. While maintaining the rest of the students information; to perserve as much of the data as possible. 
+  
 
  ### ***<center>How is the district summary affected?***
 
@@ -44,15 +47,12 @@
 ![District Summary](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20district%20summary%20DataFrame.png)
 
 
-- ### ***How is the school summary affected?***
+### ***<center>How is the school summary affected?***<br>
 
-At first glance the results of the school summary are drastic. The second image reveals that if Thomas HS had to carry the results of the replaced scores( based on the overall school population ) they would rank amoung one of the lowest performing schools in the district*.
+At first glance the results of the school summary are drastic. The second image reveals that if Thomas HS had to carry the results of the replaced scores( based on the overall school population ) they would rank amoung one of the lowest performing schools in the district**.
 
-However, as the 'Revised Results' image shows, with the results of the 9th grade class deducted from the school population and the avg's recalculated accordingly. Thomas HS remains second in overall performance*. Leaving the differnces between the original and revised analysis results negligable. 
-<br>
+However, as the 'Revised Results' image shows, with the results of the 9th grade class deducted from the school population and the avg's recalculated accordingly. Thomas HS remains second in overall performance**. Leaving the differnces between the original and revised analysis results negligable. 
 
-
-#### ****Please see - 'Additional Data Frames'***
 
 <br>
 
@@ -71,11 +71,35 @@ However, as the 'Revised Results' image shows, with the results of the 9th grade
 
 <br>
 
-## <center>Conclusion<br>
+#### *****Please See - 'Additional Data Frames'***
+
+<br>
+
+
+### **Section 2**
+
+---
+
+
+***Scores by school size***<br>
+
+![Updated](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20scores%20by%20school%20size.png)
+
+***Scores by school spending***<br>
+
+![Updated](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20scores%20by%20school%20spending%20per%20student.png)
+
+
+
+
+----
+
+## <center>Conclusion
 
 ----
 <br>
-hh
+
+
 
 <br>
 
@@ -125,5 +149,4 @@ hh
 ***Scores by school type***<br>
 
 ![Updated](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20scores%20by%20school%20type.png)
-
 
