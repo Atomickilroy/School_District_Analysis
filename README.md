@@ -1,17 +1,17 @@
 <br>
 <br>
 
-# School District Analysis
+# <center>School District Analysis
 <br>
 
-## Overview of Project
-### ***A representational analysis on a school district's funding and the corrilations to its schools student performance scores on standardized reading and math tests.*** 
+## <center>Overview of Project
+#### - *A representational analysis on a school district's funding and the corrilations to its schools student performance scores on standardized reading and math tests.* 
 
 
 
 <br>
 
-## Purpose
+## <center>Purpose
 
 1.  The purpose of this project was to learn the fundamentals of setting up an 
  Anaconda enviroment * to run Jupyter Notebook and import, read, create and manipulate a csv file (containing over 35,000 lines) on Pandas. In order to answer the inital question of: 
@@ -29,13 +29,14 @@
 
 <br>
 
-# Results 
+# <center>Results 
 
  Information came to light that suggested that the test results of both math and reading, for the 9th grade class of Thomas High School had been altered. Therefore sections of the inital analysis needed to be revised and the altered data to be rendered NaN. While maintaining the rest of the students information. To perserve as much as the data possible. 
 
-- ### How is the district summary affected?<br>
+ ### <center> How is the district summary affected?
+ <br>
 
-***District Summary***
+***<center>District Summary***
 
  The image below shows the district summary data frame. The differences without the voided test scores were negligible and therefore dont change the combined results.     
 
@@ -46,7 +47,7 @@
 
 At first glance the results of the school summary are drastic. The second image reveals that if Thomas HS had to carry the results of the replaced scores( based on the overall school population ) they would rank amoung one of the lowest performing schools in the distric.
 
-However, as the 'Revised Results' image shows, with the results of the 9th grade class of Thomas High school's deducted from the school population and the avg's recalculated accordingly. Thomas HS remains second in overall performance. Leaving the differnces between the original and revised analysis results negligable.   
+However, as the 'Revised Results' image shows, with the results of the 9th grade class deducted from the school population and the avg's recalculated accordingly. Thomas HS remains second in overall performance. Leaving the differnces between the original and revised analysis results negligable.   
 
 ***Initial Results***
 
@@ -71,6 +72,7 @@ Math and reading scores by grade<br>
 
 ![Updated Math](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20average%20math%20score%20for%20each%20grade%20level%20from%20each%20school%20.png)
 
+Reading scores by grade<br>
 
 ![Updated Reading](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20average%20reading%20score%20for%20each%20grade%20level%20from%20each%20school%20.png)
 
@@ -88,5 +90,4 @@ Scores by school type<br>
 
 
 ![Updated](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20scores%20by%20school%20type.png)
-
 
