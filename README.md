@@ -76,20 +76,33 @@ However, as the 'Revised Results' image shows, with the results of the 9th grade
 <br>
 
 
-### **Section 2**
+### **Section 2**:  
+- What has the most impact on a schools' student performance on standardized tests?
+
 
 ---
+<br>
+
+These two charts above represent the core of the analysis. 
+
+<br>
 
 
-***Scores by school size***<br>
+***Scores by school size*** 
+<br>
 
 ![Updated](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20scores%20by%20school%20size.png)
+<br>
 
 ***Scores by school spending***<br>
 
 ![Updated](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20scores%20by%20school%20spending%20per%20student.png)
 
+<br>
 
+- The first shows that Larger Schools'Students (2000-5000) pass 32% less students and only 58% of students pass. 
+
+- The second chart when crossed with the school summary ( [Org School Summary](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Original%20Analysis%20images/Per_School_Summary_OG.png) ) in addition to the school size chart above, shows that dispite Larger schools having among the highest amount of money spent per student, it ultimately comes down to school size not money spent per student.  
 
 
 ----
@@ -99,13 +112,18 @@ However, as the 'Revised Results' image shows, with the results of the 9th grade
 ----
 <br>
 
+The impact of the results above could lead to an enumerable number of discussions into the 'Why' of it all. Potientally leading to not just increased test scores but offering the students of those schools a better educational-enviroment to learn in. Or leading to future projects where you evaluate different metrics.
 
+Such as the cost per student ratio and new school construstion.
+
+- By dividing the larger schools into two you decreasing the cost per student per student by ~$150.
+- For one school of 4000 it could potientally save ~$600,000 per year 
+- Ultimately being more cost efficient over a decade or so?
+
+
+***Just an example additional data needed . . .**
 
 <br>
-
-
-
-
 
 
 ----
@@ -150,3 +168,6 @@ However, as the 'Revised Results' image shows, with the results of the 9th grade
 
 ![Updated](https://github.com/Atomickilroy/School_District_Analysis/blob/main/Deliverable%20images/The%20scores%20by%20school%20type.png)
 
+
+___ 
+***TBD***  : Although the question still remains as to why Thomas HS's 9th grade scores were falsified. One could speculate it was just an attempt to claim the higher "Overall Passing" average and 'beat Cabrera HS to claim the number in the district. ***
